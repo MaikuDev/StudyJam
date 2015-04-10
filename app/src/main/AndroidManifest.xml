@@ -17,8 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".pager_item"
-            android:label="@string/title_activity_pager_item" >
+            android:name=".pager_item" >
         </activity>
     </application>
 

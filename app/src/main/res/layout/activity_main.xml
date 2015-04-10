@@ -11,4 +11,29 @@
         android:layout_height="match_parent">
     </android.support.v4.view.ViewPager>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/facebook"
+        android:id="@+id/facebook"
+        android:background="@color/facebook"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        android:layout_marginLeft="150dp"
+        android:layout_marginBottom="74dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/twitter"
+        android:id="@+id/twitter"
+        android:background="@color/twitter"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        android:layout_marginLeft="150dp"
+        android:layout_marginBottom="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
